@@ -11,6 +11,8 @@
     "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
   },
   "devDependecies": {
+    "@ignite-ui/ts-config": "*",
     "@ignite-ui/tokens": "*"
-  }
+  },
+  "license": "MIT"
 }
